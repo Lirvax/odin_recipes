@@ -1,6 +1,24 @@
 *
 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif;
     background-color: rgb(32, 32, 32);
     color: aliceblue;
+}
+
+.zutatenliste, .zubereitung, .beschreibung, .rezeptname, .zeit 
+{
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: left;
+}
+.rezeptname
+{
+    text-align: center;
+}
+.rezeptbild
+{
+
+}
+.zeit
+{
 }
